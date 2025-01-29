@@ -100,6 +100,7 @@ Legitimate companies would use HTTPS for any financial transactions. The link pr
 
 _________________________________________________________________________________________
 TASK 2: DIGITAL INVESTIGATION OF NETWROK TRAFFIC 
+
 ANZ noticed unusual network behavior from someone using the their network. A laptop has been highlighted by our security measures due to odd internet traffic patterns, and our job is to look into this traffic to see what the user has been accessing and downloading. You'll need to analyze the given packet capture (pcap) file which records the user's recent online activities. The task includes spotting any images viewed, files accessed, and other traces in the data. We are then expected to compile a fully comphrensive report detailing our  discoveries and outline the methods and steps taken during your investigation.
 
 2.1) First of all, I opened the pcap file in wireshark. Then, I filtered the traffic for 'http' only. This view let me see some interesting http GET requests, which indicated that the user specifically requested information.
@@ -130,6 +131,7 @@ ANZ noticed unusual network behavior from someone using the their network. A lap
 2.8) Next, I did same with ANZ1.jpg and ANZ2.jpg 
 ANZ1
 ![ANZ1](https://github.com/user-attachments/assets/511fea82-1ddb-40c6-a78a-294d70085c9c)
+
 ANZ2
 ![ANZ2](https://github.com/user-attachments/assets/9985c8fa-e95d-4c12-8991-796f9b0a82ee)
 
@@ -137,6 +139,7 @@ ANZ2
 ![image](https://github.com/user-attachments/assets/a8e6654d-fc96-4078-bf03-7cc18064633f)
 
 3.0) Next, I followed "how-to-commit-crimes.docx".
+
 The Ascii view showed the following message:
 
 “Step 1: Find target
@@ -148,6 +151,7 @@ This is a suspicious document.
 
 
 3.1) Next, I investigated the 3 pdf documents: ANZ_Document.pdf, ANZ_Document2.pdf, evil.pdf
+
 It was a pdf document so, the hex signature was found to be “25 50 44 46”. So ,I copied all the data to the end beginning with this and got the following results:
 
 3.1.1) ANZ_Document.pdf
