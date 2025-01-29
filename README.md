@@ -182,6 +182,7 @@ Prompting the password in the window allowed me to access the file and it showed
 
 _______________________________________________________________________________________________
 CONCLUSION
+
 This project enhanced my expertise in cybersecurity incident management, focusing on tackling social engineering and detecting unusual network behavior. It sharpened my skills in methodically investigating and logging security threats, furtherly improving my reporting and communication skills. 
 
 
