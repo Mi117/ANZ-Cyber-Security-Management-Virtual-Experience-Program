@@ -23,6 +23,7 @@ Phishing Detection Techniques: Applied manual and automated methods to assess em
 ______________________________________________________________________________________________________________
 Steps
 TASK 1: SOCIAL ENGINEERING INVESTIGATION
+
 You've been tasked with reviewing a collection of emails to decide if they are harmful or safe. For any email flagged as malicious, you must produce a brief report detailing why you consider it suspicious. This report should cover aspects like dubious content, harmful attachments or links, unusual sender details, or signs of phishing or malware. The aim is to quickly assess the emails and alert about any dangers so they can be addressed swiftly.
 
 -To confirm that the website was a legitimate and secure ANZ page, I checked for an SSL Certificate. I verified the URL in the browser changed from http:// to https://, signaling a secure connection. I also looked for a lock or key icon near the address bar on pages where security was crucial. Clicking this icon gave me access to the details of ANZ's SSL Certificate, ensuring the site was both authentic and secure.
@@ -31,6 +32,7 @@ Below are the 7 emails mentioned:
 
 - Email 1:
 <img width="539" alt="email 1" src="https://github.com/user-attachments/assets/896fd553-4e04-4637-bb74-61aaebd23df2" />
+
 Analysis:
 
 Safe or Malicious: Safe
@@ -39,6 +41,7 @@ This email is non malicious. It’s a typical conversation between friends and c
 
 - Email 2:
 <img width="533" alt="email 2" src="https://github.com/user-attachments/assets/ad6b6716-787c-42ba-a1fd-64425a981dcc" />
+
 Analysis:
 
 Safe or Malicious: Malicious
@@ -49,6 +52,7 @@ You would not expect an email from an official Microsoft service to be formatted
 
 - Email 3:
 <img width="532" alt="email 3" src="https://github.com/user-attachments/assets/ccf4b805-4f67-44b0-944d-2ade32067aed" />
+
 Analysis:
 
 Safe or Malicious: Malicious
@@ -57,6 +61,7 @@ The senders account could be compromised, so a malicious email like this could s
 
 - Email 4:
 <img width="492" alt="email 4" src="https://github.com/user-attachments/assets/60052fa6-4953-4b98-b3aa-9257af6758c6" />
+
 Analysis:
 
 Safe or Malicious: Safe
@@ -66,6 +71,7 @@ The email contains no links or requests for information, just pure advertising.
 
 - Email 5:
 <img width="503" alt="email 5" src="https://github.com/user-attachments/assets/189d2a18-fd35-4db8-8b06-1f4d9da44e8f" />
+
 Analysis:
 
 Safe or Malicious: Malicious
@@ -75,6 +81,7 @@ Legitimate users/services would not ask for account details. This is almost alwa
 
 - Email 6:
 <img width="517" alt="email 6" src="https://github.com/user-attachments/assets/315b9a23-9e18-47e0-9941-12aafdece9b9" />
+
 Analysis:
 
 Safe or Malicious: Safe
@@ -83,6 +90,7 @@ The senders email address matches the name on the signature, and appears to be w
 
 - Email 7:
 <img width="509" alt="email 7" src="https://github.com/user-attachments/assets/1565121d-ca7f-4379-990c-76b72837d536" />
+
 Analysis:
 
 Safe or Malicious: Malicious
