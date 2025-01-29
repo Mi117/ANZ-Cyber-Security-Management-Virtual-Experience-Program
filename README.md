@@ -1,17 +1,20 @@
 # ANZ-Cyber-Security-Management-Virtual-Experience-Program
 Simulation focussed on identifying cybersecurity threats (email phishing attemps) and analyse and investigate suspicious Packet traffic utilizing open-sourced software (Wireshark)
 
-Objective
+OBJECTIVE
+
 The main goal of the project was to create simulations that mirror the real-world challenges faced by cybersecurity experts in a major financial organization. This initiative concentrated on exploring possible cyber threats, spotting signs of security breaches, and outlining detailed steps for resolution. The activities were structured to enhance skills in investigation, analysis, and documentation, which are essential for handling cybersecurity incidents. The program includes two key components: a social engineering probe and a digital forensics examination.
 
-Skills Learned
+SKILLS LEARNED
+
 - Social Engineering Awareness: Identifying red flags in email content, sender information, and attachment/link behavior. Applying knowledge of common social engineering tactics like phishing.
 - Email Analysis: Scrutinizing email headers, sender legitimacy, and attachment types. Understanding how to analyze email content for suspicious elements.
 - Digital Forensics: Examining network traffic captured in a pcap file. Identifying user activity based on network data packets. Documenting investigation steps and findings.
 - Incident Response & Reporting: Enhanced capability to write clear, technical reports that translate complex security incidents into actionable recommendations for mitigation.
 - Network Security: Identifying malicious activity through network traffic analysis and forensic investigation.
 
-Tools Used
+TOOLS USED
+
 Wireshark: Used for detailed packet capture (pcap) file analysis and network traffic investigation.
 Hex Fiend: to see the raw and exact contents of a file.
 Email Header Analysis Tools: To investigate sender metadata and detect spoofing or phishing indicators.
